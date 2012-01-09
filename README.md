@@ -1,5 +1,3 @@
-fizzbuzz
-
 # fizzbuzz
 
 ## Build status
